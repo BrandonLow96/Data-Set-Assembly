@@ -1,2 +1,4 @@
 venv
-
+output balance sheet.csv
+output income statement.csv
+potential errors.xlsx
