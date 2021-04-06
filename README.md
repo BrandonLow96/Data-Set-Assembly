@@ -108,9 +108,9 @@ This is an example of how to list things you need to use the software and how to
 This is an example of a balance sheet that you can obtain with the code:
 
 
-Nike 2018 Balance Sheet
+Output balance sheet for 2018
 
-![Image of Nike 2018 balance sheet](https://user-images.githubusercontent.com/78768156/113715132-0cb61680-96e1-11eb-9b69-7e763a6fd952.png)
+![Image of output balance sheets](https://user-images.githubusercontent.com/78768156/113717142-3a03c400-96e3-11eb-84eb-881f3d95042b.png)
 
 
 
